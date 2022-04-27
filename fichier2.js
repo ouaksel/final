@@ -15,3 +15,8 @@ function createPony() {
     return { name: name, color: color };
     }
 
+
+    const color = 'blue';
+    return { name: name, color: color };
+    }
+
